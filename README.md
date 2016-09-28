@@ -1,0 +1,2 @@
+# statistics
+Basic Statistics Exercises 
