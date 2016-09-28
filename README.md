@@ -10,15 +10,12 @@ Clone or download zip code
 
 All codes are tested on Matlab 2016a
 
-``
-Give examples
-``
-
 ### Running
 
 Open the M-file that you want run, change the values (if necessary) and run: 
 
 Example:
+
 ``
 >> intervaloDeConfianca
 Média: 51.2222
